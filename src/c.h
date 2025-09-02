@@ -1,0 +1,10 @@
+//#include <md2.h>
+//#include <md4.h>
+#include <md5.h>
+//#include <ripemd.h>
+//#include <rmd160.h>
+#include <sha.h>
+#include <sha1.h>
+#include <sha2.h>
+#include <sha256.h>
+#include <sha512.h>
